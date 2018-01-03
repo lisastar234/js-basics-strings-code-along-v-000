@@ -3,6 +3,5 @@ const currentUser =
 'Grace Hopper';
 
 const welcomeMessage 
-= "Welcome to";
-"Flatbook, " ;
-${currentUser}!";
+= 'Welcome to Flatbook,  
+${currentUser}!';
