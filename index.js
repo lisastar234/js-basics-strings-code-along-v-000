@@ -8,4 +8,4 @@ const
 excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 const
-shortGreeting = 'Welcome, ';
+shortGreeting = 'Welcome, ${currentUser}';
